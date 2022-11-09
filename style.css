@@ -1,24 +1,24 @@
 .flag {
     border: 1px solid black;
-    height: 533px;
-    width: 1000px;
+    height: 558px;
+    width: 1062px;
 }
 
 .blue {
-    height: 284px;
-    width: 400px;
+    height: 291px;
+    width: 425px;
     background-color: rgb(6, 37, 95);
     float: left;
-    padding-top: 3px;
+    padding-top: 10px;
 }
 
 .red {
-    height: 41px;
+    height: 43px;
     background-color: rgb(179, 25, 66);
 }
 
 .white {
-    height: 41px;
+    height: 43px;
     background-color: white;
 }
 
@@ -26,6 +26,7 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
+    margin: -1px 0 0 0;
 }
 
 .star2 {
